@@ -1,2 +1,2 @@
 # fraction
-fraction.py is packet
+fraction.py is packet: import fraction
