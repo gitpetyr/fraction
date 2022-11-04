@@ -1,3 +1,2 @@
 # fraction
-fraction.py is packet
-import fraction
+"fraction.py" is a module, please use "import fraction" to import this module
